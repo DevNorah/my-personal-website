@@ -79,8 +79,19 @@ h2{
     font-size: 20px;
     padding: 30px;
     font-weight: bold;
+    background-color: #000;
+    color: white;
+
 }
 
+#about ul{
+    text-align: center;
+    font-weight: bold;
+    background-color: #000;
+    color: white;
+    padding-bottom: 30px;
+
+}
 #contacts {
     padding: 40px 20px;
     border-radius: 10px;
